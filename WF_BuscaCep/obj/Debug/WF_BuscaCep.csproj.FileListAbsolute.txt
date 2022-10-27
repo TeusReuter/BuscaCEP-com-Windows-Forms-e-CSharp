@@ -1,0 +1,11 @@
+C:\Users\Matheus\source\repos\WF_BuscaCep\bin\Debug\WF_BuscaCep.exe.config
+C:\Users\Matheus\source\repos\WF_BuscaCep\bin\Debug\WF_BuscaCep.exe
+C:\Users\Matheus\source\repos\WF_BuscaCep\bin\Debug\WF_BuscaCep.pdb
+C:\Users\Matheus\source\repos\WF_BuscaCep\obj\Debug\WF_BuscaCep.csproj.AssemblyReference.cache
+C:\Users\Matheus\source\repos\WF_BuscaCep\obj\Debug\WF_BuscaCep.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matheus\source\repos\WF_BuscaCep\obj\Debug\WF_BuscaCep.Properties.Resources.resources
+C:\Users\Matheus\source\repos\WF_BuscaCep\obj\Debug\WF_BuscaCep.csproj.GenerateResource.cache
+C:\Users\Matheus\source\repos\WF_BuscaCep\obj\Debug\WF_BuscaCep.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\WF_BuscaCep\obj\Debug\WF_BuscaCep.exe
+C:\Users\Matheus\source\repos\WF_BuscaCep\obj\Debug\WF_BuscaCep.pdb
+C:\Users\Matheus\source\repos\WF_BuscaCep\obj\Debug\WF_BuscaCep.BuscaCep.resources
